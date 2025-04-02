@@ -73,6 +73,6 @@ def get_suggestions(score):
     else:
         return [
             "Revisit the core materials on this topic.",
-            "Schedule a meeting with your instructor for clarification.",
+            "you should Schedule a meeting with your instructor for clarification.",
             "Try some practice exercises before moving on."
         ]
